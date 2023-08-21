@@ -1,0 +1,4443 @@
+Port: 4242
+Team name: Team1
+Machine name: 127.0.0.1
+Connected to server
+Command XY : WELCOME
+[Agent] ask server: Team1
+|
+Command XY : 5
+Command XY : 10 10
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:10 
+|  Vision: 
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: 
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "" from server, updating
+tick_fork: 39
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:10 
+|  Vision: 
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:10 
+|  Vision: 
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate deraumere,, linemate]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:10 
+|  Vision: [PLAYER][LINEMATE DERAUMERE][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:10 
+|  Vision: [PLAYER][LINEMATE DERAUMERE][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][LINEMATE DERAUMERE][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][LINEMATE DERAUMERE][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate,,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][LINEMATE][EMPTY]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 6
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][LINEMATE][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,,,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b ?
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 1
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,,,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, linemate,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1 ?
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c ?
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate, food linemate mendiane, linemate linemate, food thystame]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2 ?
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate, food linemate mendiane, linemate linemate, food thystame]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE][FOOD LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate linemate,, food linemate mendiane, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE LINEMATE][EMPTY][FOOD LINEMATE MENDIANE][DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE LINEMATE][EMPTY][FOOD LINEMATE MENDIANE][DERAUMERE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 11
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][EMPTY][FOOD LINEMATE MENDIANE][DERAUMERE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate mendiane, linemate deraumere,, player food]" from server, updating
+tick_fork: 12
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 13
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 14
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][PLAYER FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 15
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][PLAYER FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, player, deraumere]" from server, updating
+tick_fork: 16
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][PLAYER][DERAUMERE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 17
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][PLAYER][DERAUMERE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 18
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][PLAYER][DERAUMERE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 19
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][PLAYER][DERAUMERE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player,, food mendiane, food]" from server, updating
+tick_fork: 20
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][FOOD MENDIANE][FOOD]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 21
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][FOOD MENDIANE][FOOD]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 22
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][FOOD MENDIANE][FOOD]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 23
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][FOOD MENDIANE][FOOD]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food mendiane, food food food, food, deraumere]" from server, updating
+tick_fork: 24
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 25
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 26
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane, food food food, food, deraumere]" from server, updating
+tick_fork: 27
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 28
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 29
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 30
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][FOOD FOOD FOOD][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food, deraumere, deraumere, food]" from server, updating
+tick_fork: 31
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD][DERAUMERE][DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 32
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD][DERAUMERE][DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2 ?
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD][DERAUMERE][DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD][DERAUMERE][DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, deraumere, deraumere, player food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][DERAUMERE][DERAUMERE][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][DERAUMERE][DERAUMERE][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][DERAUMERE][DERAUMERE][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][DERAUMERE][DERAUMERE][PLAYER FOOD]
+|  Level: 1
+|  Position: 0 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere,, player, food mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][EMPTY][PLAYER][FOOD MENDIANE]
+|  Level: 1
+|  Position: 0 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][EMPTY][PLAYER][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][EMPTY][PLAYER][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player,,,]" from server, updating
+tick_fork: 9
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 10
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 11
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 12
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, linemate deraumere,]" from server, updating
+tick_fork: 13
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, linemate deraumere,]" from server, updating
+tick_fork: 14
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 15
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 16
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, player deraumere, food linemate mendiane,]" from server, updating
+tick_fork: 17
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][PLAYER DERAUMERE][FOOD LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 18
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][PLAYER DERAUMERE][FOOD LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate mendiane, deraumere, food food linemate linemate, food food food linemate]" from server, updating
+tick_fork: 19
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER LINEMATE MENDIANE][DERAUMERE][FOOD FOOD LINEMATE LINEMATE][FOOD FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 20
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER LINEMATE MENDIANE][DERAUMERE][FOOD FOOD LINEMATE LINEMATE][FOOD FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate mendiane, deraumere, food food linemate linemate, food food food linemate]" from server, updating
+tick_fork: 21
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER LINEMATE MENDIANE][DERAUMERE][FOOD FOOD LINEMATE LINEMATE][FOOD FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 22
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER LINEMATE MENDIANE][DERAUMERE][FOOD FOOD LINEMATE LINEMATE][FOOD FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 23
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER PLAYER LINEMATE MENDIANE][DERAUMERE][FOOD FOOD LINEMATE LINEMATE][FOOD FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food food linemate linemate, food, food food food linemate, player]" from server, updating
+tick_fork: 24
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD LINEMATE LINEMATE][FOOD][FOOD FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 25
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD LINEMATE LINEMATE][FOOD][FOOD FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 26
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD FOOD LINEMATE LINEMATE][FOOD][FOOD FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 27
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD FOOD LINEMATE LINEMATE][FOOD][FOOD FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate linemate, food, player food food linemate,]" from server, updating
+tick_fork: 28
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER LINEMATE LINEMATE][FOOD][PLAYER FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 29
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER LINEMATE LINEMATE][FOOD][PLAYER FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 30
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][FOOD][PLAYER FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 31
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][FOOD][PLAYER FOOD FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate,,, linemate mendiane]" from server, updating
+tick_fork: 32
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][EMPTY][EMPTY][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 33
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][EMPTY][EMPTY][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 34
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][EMPTY][EMPTY][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 35
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][EMPTY][EMPTY][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate, linemate mendiane, linemate linemate, food thystame]" from server, updating
+tick_fork: 36
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 37
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][LINEMATE MENDIANE][LINEMATE LINEMATE][FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate linemate, deraumere, deraumere,]" from server, updating
+tick_fork: 38
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][DERAUMERE][DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 39
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][DERAUMERE][DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2 ?
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][DERAUMERE][DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE LINEMATE][DERAUMERE][DERAUMERE]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate mendiane, linemate deraumere,, food food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 0 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER LINEMATE MENDIANE][LINEMATE DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, food,,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][FOOD][EMPTY]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][FOOD][EMPTY]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][FOOD][EMPTY]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][FOOD][EMPTY]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food food,, food mendiane,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 11
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD FOOD][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 12
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD FOOD][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, food mendiane,]" from server, updating
+tick_fork: 13
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 14
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 15
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 16
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][FOOD MENDIANE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food mendiane,,, deraumere]" from server, updating
+tick_fork: 17
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 18
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 19
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 20
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane,,, deraumere]" from server, updating
+tick_fork: 21
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 22
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 23
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 24
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate mendiane,, food]" from server, updating
+tick_fork: 25
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE MENDIANE][EMPTY][FOOD]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate mendiane,, food]" from server, updating
+tick_fork: 26
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE MENDIANE][EMPTY][FOOD]
+|  Level: 1
+|  Position: 9 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 27
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE MENDIANE][EMPTY][FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, linemate deraumere, food]" from server, updating
+tick_fork: 28
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 29
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 30
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 9 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 31
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][LINEMATE DERAUMERE][FOOD]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food, linemate linemate deraumere, food deraumere mendiane,]" from server, updating
+tick_fork: 32
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 33
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 34
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 35
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate linemate deraumere, food deraumere mendiane,]" from server, updating
+tick_fork: 36
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 37
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 38
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 39
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE LINEMATE DERAUMERE][FOOD DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food deraumere mendiane, deraumere,, food food]" from server, updating
+tick_fork: 40
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER FOOD DERAUMERE MENDIANE][DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2 ?
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc ?
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER FOOD DERAUMERE MENDIANE][DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc ?
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER FOOD DERAUMERE MENDIANE][DERAUMERE][EMPTY][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere mendiane, deraumere, player, food food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][PLAYER][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2 ?
+[Agent] ask server: Connect_nbr
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][PLAYER][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Connect_nbr
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "0" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][PLAYER][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][PLAYER][FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere mendiane, deraumere,, player food food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][EMPTY][PLAYER FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][EMPTY][PLAYER FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][EMPTY][PLAYER FOOD FOOD]
+|  Level: 1
+|  Position: 7 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE MENDIANE][DERAUMERE][EMPTY][PLAYER FOOD FOOD]
+|  Level: 1
+|  Position: 7 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate, linemate deraumere thystame, food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE][LINEMATE DERAUMERE THYSTAME][FOOD]
+|  Level: 1
+|  Position: 7 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE][LINEMATE DERAUMERE THYSTAME][FOOD]
+|  Level: 1
+|  Position: 7 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE][LINEMATE DERAUMERE THYSTAME][FOOD]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 10
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][LINEMATE][LINEMATE DERAUMERE THYSTAME][FOOD]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, mendiane,,]" from server, updating
+tick_fork: 11
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 12
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 13
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player,,, deraumere mendiane]" from server, updating
+tick_fork: 14
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 15
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 16
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, linemate deraumere, food food, food linemate linemate deraumere]" from server, updating
+tick_fork: 17
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][LINEMATE DERAUMERE][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 8 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 18
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][LINEMATE DERAUMERE][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 19
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][LINEMATE DERAUMERE][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 20
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][LINEMATE DERAUMERE][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 21
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][LINEMATE DERAUMERE][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food, food food, food linemate linemate deraumere, deraumere mendiane]" from server, updating
+tick_fork: 22
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 23
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 24
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 25
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD][FOOD FOOD][FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food food, food food linemate linemate deraumere, deraumere mendiane]" from server, updating
+tick_fork: 26
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 27
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 28
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD FOOD LINEMATE LINEMATE DERAUMERE][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food food linemate linemate deraumere,, deraumere mendiane,]" from server, updating
+tick_fork: 29
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 30
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 31
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 32
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate linemate deraumere,, deraumere mendiane,]" from server, updating
+tick_fork: 33
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 34
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 7, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 35
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 7 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 36
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE DERAUMERE][EMPTY][DERAUMERE MENDIANE]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food food, food, linemate deraumere, sibur]" from server, updating
+tick_fork: 37
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER FOOD FOOD][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food, food, linemate deraumere, sibur]" from server, updating
+tick_fork: 38
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER FOOD][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 39
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER FOOD][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 7, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 40
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER FOOD][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food, linemate deraumere, sibur]" from server, updating
+tick_fork: 1
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc ?
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc ?
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2 ?
+[Agent] ask server: Connect_nbr
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Connect_nbr
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "0" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER][FOOD][LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food food, food linemate deraumere, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07 ?
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:7 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD FOOD][FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, food food, player food linemate deraumere, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][FOOD FOOD][PLAYER FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][FOOD FOOD][PLAYER FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][FOOD FOOD][PLAYER FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 8 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER][FOOD FOOD][PLAYER FOOD LINEMATE DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food linemate deraumere, food linemate mendiane,,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE DERAUMERE][FOOD LINEMATE MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE DERAUMERE][FOOD LINEMATE MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE DERAUMERE][FOOD LINEMATE MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE DERAUMERE][FOOD LINEMATE MENDIANE][EMPTY]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate deraumere,, sibur, linemate phiras]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE DERAUMERE][EMPTY][SIBUR][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE DERAUMERE][EMPTY][SIBUR][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 9 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE DERAUMERE][EMPTY][SIBUR][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 0 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food linemate linemate, linemate,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD LINEMATE LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 0 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD LINEMATE LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 0 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food linemate linemate, linemate,]" from server, updating
+tick_fork: 17
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD LINEMATE LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 0 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 18
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD LINEMATE LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate, food food thystame,,]" from server, updating
+tick_fork: 19
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][FOOD FOOD THYSTAME][EMPTY]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 20
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][FOOD FOOD THYSTAME][EMPTY]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 21
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][FOOD FOOD THYSTAME][EMPTY]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 22
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE][FOOD FOOD THYSTAME][EMPTY]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food food linemate linemate, deraumere, food food food deraumere,]" from server, updating
+tick_fork: 23
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 24
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 25
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 26
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD FOOD LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate linemate, deraumere, food food food deraumere,]" from server, updating
+tick_fork: 27
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 28
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 29
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][DERAUMERE][FOOD FOOD FOOD DERAUMERE]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food food food deraumere, food mendiane thystame,, food food thystame]" from server, updating
+tick_fork: 30
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD FOOD FOOD DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 31
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD FOOD FOOD DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 32
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD FOOD DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 33
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER FOOD FOOD FOOD DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player deraumere, food mendiane thystame,, food food thystame]" from server, updating
+tick_fork: 34
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 35
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 6, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 36
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 37
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER DERAUMERE][FOOD MENDIANE THYSTAME][EMPTY][FOOD FOOD THYSTAME]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food sibur phiras, food mendiane thystame, food sibur]" from server, updating
+tick_fork: 38
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD SIBUR PHIRAS][FOOD MENDIANE THYSTAME][FOOD SIBUR]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89 ?
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD SIBUR PHIRAS][FOOD MENDIANE THYSTAME][FOOD SIBUR]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 1
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER PLAYER][FOOD SIBUR PHIRAS][FOOD MENDIANE THYSTAME][FOOD SIBUR]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD SIBUR PHIRAS][FOOD MENDIANE THYSTAME][FOOD SIBUR]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player mendiane thystame, deraumere sibur thystame, food, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER MENDIANE THYSTAME][DERAUMERE SIBUR THYSTAME][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER MENDIANE THYSTAME][DERAUMERE SIBUR THYSTAME][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER MENDIANE THYSTAME][DERAUMERE SIBUR THYSTAME][FOOD][DERAUMERE]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food, linemate phiras, mendiane, player food]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD][LINEMATE PHIRAS][MENDIANE][PLAYER FOOD]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 7
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD][LINEMATE PHIRAS][MENDIANE][PLAYER FOOD]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 8
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD][LINEMATE PHIRAS][MENDIANE][PLAYER FOOD]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER FOOD][LINEMATE PHIRAS][MENDIANE][PLAYER FOOD]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, food, deraumere, food sibur]" from server, updating
+tick_fork: 10
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD][DERAUMERE][FOOD SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 11
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD][DERAUMERE][FOOD SIBUR]
+|  Level: 1
+|  Position: 3 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 12
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD][DERAUMERE][FOOD SIBUR]
+|  Level: 1
+|  Position: 3 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 13
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER PLAYER][FOOD][DERAUMERE][FOOD SIBUR]
+|  Level: 1
+|  Position: 3 5
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere, mendiane, food,]" from server, updating
+tick_fork: 14
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][MENDIANE][FOOD]
+|  Level: 1
+|  Position: 3 5
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 15
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][MENDIANE][FOOD]
+|  Level: 1
+|  Position: 3 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 16
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:6 
+|  Vision: [PLAYER DERAUMERE][MENDIANE][FOOD]
+|  Level: 1
+|  Position: 3 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 17
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER DERAUMERE][MENDIANE][FOOD]
+|  Level: 1
+|  Position: 3 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, deraumere, linemate]" from server, updating
+tick_fork: 18
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][LINEMATE]
+|  Level: 1
+|  Position: 3 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 19
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][LINEMATE]
+|  Level: 1
+|  Position: 3 6
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 20
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][LINEMATE]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane, deraumere sibur thystame, linemate phiras,]" from server, updating
+tick_fork: 21
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][DERAUMERE SIBUR THYSTAME][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 22
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][DERAUMERE SIBUR THYSTAME][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane, deraumere sibur thystame, linemate phiras,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][DERAUMERE SIBUR THYSTAME][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][DERAUMERE SIBUR THYSTAME][LINEMATE PHIRAS]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane,,, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 2 6
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 2 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cc0067ec-41b6-42be-a676-1eb0bf0a3231
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER MENDIANE][EMPTY][EMPTY][DERAUMERE]
+|  Level: 1
+|  Position: 2 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, sibur, linemate, linemate]" from server, updating
+tick_fork: 4
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][SIBUR][LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 2 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][SIBUR][LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 2 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][SIBUR][LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 2 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 6e82d036-1da4-4d2d-a4c9-5b270f78fe8e
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][SIBUR][LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 8
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][SIBUR][LINEMATE][LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, deraumere, food food linemate, food linemate]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 6e82d036-1da4-4d2d-a4c9-5b270f78fe8e ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, deraumere, food food linemate, food linemate]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cc0067ec-41b6-42be-a676-1eb0bf0a3231 ?
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, deraumere, food food linemate, food linemate]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID e336fcaa-4024-43f8-b41e-5c57c004abbd
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][DERAUMERE][FOOD FOOD LINEMATE][FOOD LINEMATE]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food food linemate, linemate, deraumere phiras, deraumere deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD LINEMATE][LINEMATE][DERAUMERE PHIRAS][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD LINEMATE][LINEMATE][DERAUMERE PHIRAS][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 3, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER FOOD FOOD LINEMATE][LINEMATE][DERAUMERE PHIRAS][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD FOOD LINEMATE][LINEMATE][DERAUMERE PHIRAS][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food linemate, player player deraumere deraumere, food linemate, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD LINEMATE][PLAYER PLAYER DERAUMERE DERAUMERE][FOOD LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD LINEMATE][PLAYER PLAYER DERAUMERE DERAUMERE][FOOD LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD LINEMATE][PLAYER PLAYER DERAUMERE DERAUMERE][FOOD LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 5, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 13
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER FOOD LINEMATE][PLAYER PLAYER DERAUMERE DERAUMERE][FOOD LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate, deraumere deraumere, player player linemate, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 33a9e867-18b3-4605-b8af-6104384ed282
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][DERAUMERE DERAUMERE][PLAYER PLAYER LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: NORTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cfcaa0cd-d32a-4092-bc10-2709e75d4244
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][DERAUMERE DERAUMERE][PLAYER PLAYER LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 0 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 33a9e867-18b3-4605-b8af-6104384ed282 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER LINEMATE][DERAUMERE DERAUMERE][PLAYER PLAYER LINEMATE][SIBUR]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate,, mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cfcaa0cd-d32a-4092-bc10-2709e75d4244 ?
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:5 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate,, mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID adf5ae0e-7bb1-404d-aaa2-5406ea917c6a
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID e336fcaa-4024-43f8-b41e-5c57c004abbd ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate,, mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 33a9e867-18b3-4605-b8af-6104384ed282
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, linemate,, mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID adf5ae0e-7bb1-404d-aaa2-5406ea917c6a
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 33a9e867-18b3-4605-b8af-6104384ed282
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 7
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ccadcd3a-bc0b-48b4-b9e1-c3e42b853206
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 6
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 3, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER][LINEMATE][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 6
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate phiras, food, deraumere sibur thystame,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID e336fcaa-4024-43f8-b41e-5c57c004abbd
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER LINEMATE PHIRAS][FOOD][DERAUMERE SIBUR THYSTAME]
+|  Level: 1
+|  Position: 1 6
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate phiras, food, deraumere sibur thystame,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab191e6e-1600-40cf-93ad-28a1099f11f4
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER LINEMATE PHIRAS][FOOD][DERAUMERE SIBUR THYSTAME]
+|  Level: 1
+|  Position: 1 6
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER LINEMATE PHIRAS][FOOD][DERAUMERE SIBUR THYSTAME]
+|  Level: 1
+|  Position: 1 5
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere sibur thystame, mendiane thystame, sibur phiras,]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID adf5ae0e-7bb1-404d-aaa2-5406ea917c6a
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER DERAUMERE SIBUR THYSTAME][MENDIANE THYSTAME][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 5
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 3, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24296828-29fc-4e07-a5e7-ecc3fe1331f3
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER DERAUMERE SIBUR THYSTAME][MENDIANE THYSTAME][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 5
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 082f8872-d452-4659-8663-12b545efad8c
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER DERAUMERE SIBUR THYSTAME][MENDIANE THYSTAME][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER DERAUMERE SIBUR THYSTAME][MENDIANE THYSTAME][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player food,, player deraumere, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER FOOD][EMPTY][PLAYER DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24296828-29fc-4e07-a5e7-ecc3fe1331f3
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD][EMPTY][PLAYER DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 4, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cc0067ec-41b6-42be-a676-1eb0bf0a3231
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD][EMPTY][PLAYER DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 6e82d036-1da4-4d2d-a4c9-5b270f78fe8e
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER FOOD][EMPTY][PLAYER DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player,, deraumere, sibur]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24296828-29fc-4e07-a5e7-ecc3fe1331f3
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: EAST
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5f26a45f-8257-4a65-bfe7-215840c9e7fe
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 5
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID d621f2fe-6b97-4ca5-a890-60a2056fe32a
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:4 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 3, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID d621f2fe-6b97-4ca5-a890-60a2056fe32a ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER][EMPTY][DERAUMERE][SIBUR]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane thystame, linemate mendiane, food linemate, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbfcc783-6ef9-42fa-ad48-e7028fb35390 ?
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player mendiane thystame, linemate mendiane, food linemate, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cd10ddd6-7633-473f-85db-43526c7184f1
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5d49658a-8840-4f81-ab5b-7d1b559516da
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane thystame, linemate mendiane, player food linemate, deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID d621f2fe-6b97-4ca5-a890-60a2056fe32a
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][PLAYER FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 3, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 33a9e867-18b3-4605-b8af-6104384ed282
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][PLAYER FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 6e82d036-1da4-4d2d-a4c9-5b270f78fe8e
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][PLAYER FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 4
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID e336fcaa-4024-43f8-b41e-5c57c004abbd
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER MENDIANE THYSTAME][LINEMATE MENDIANE][PLAYER FOOD LINEMATE][DERAUMERE]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food linemate, sibur, thystame, food linemate linemate]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cfcaa0cd-d32a-4092-bc10-2709e75d4244
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE][SIBUR][THYSTAME][FOOD LINEMATE LINEMATE]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID e336fcaa-4024-43f8-b41e-5c57c004abbd
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:3 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE][SIBUR][THYSTAME][FOOD LINEMATE LINEMATE]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 2, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 304303fe-477e-4027-826e-eb8a939a3945
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE][SIBUR][THYSTAME][FOOD LINEMATE LINEMATE]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 6e82d036-1da4-4d2d-a4c9-5b270f78fe8e
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER FOOD LINEMATE][SIBUR][THYSTAME][FOOD LINEMATE LINEMATE]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player player linemate, food linemate linemate, player deraumere, sibur phiras]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][FOOD LINEMATE LINEMATE][PLAYER DERAUMERE][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 2 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID da64c10b-b96e-479c-a34c-a03907652021
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][FOOD LINEMATE LINEMATE][PLAYER DERAUMERE][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 304303fe-477e-4027-826e-eb8a939a3945
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][FOOD LINEMATE LINEMATE][PLAYER DERAUMERE][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 2, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID a5fd7fa1-b340-40c8-b90e-e4ce4f8665d0
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][FOOD LINEMATE LINEMATE][PLAYER DERAUMERE][SIBUR PHIRAS]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player deraumere, player thystame, player linemate linemate, linemate mendiane]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24296828-29fc-4e07-a5e7-ecc3fe1331f3
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER DERAUMERE][PLAYER THYSTAME][PLAYER LINEMATE LINEMATE][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 3
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cc0067ec-41b6-42be-a676-1eb0bf0a3231
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER DERAUMERE][PLAYER THYSTAME][PLAYER LINEMATE LINEMATE][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 17
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER DERAUMERE][PLAYER THYSTAME][PLAYER LINEMATE LINEMATE][LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player linemate linemate,, player player food food linemate, player]" from server, updating
+tick_fork: 18
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:2 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][EMPTY][PLAYER PLAYER FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 1, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 19
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][EMPTY][PLAYER PLAYER FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 2
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 20
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][EMPTY][PLAYER PLAYER FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 21
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER LINEMATE LINEMATE][EMPTY][PLAYER PLAYER FOOD FOOD LINEMATE][PLAYER]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player player linemate,,, player linemate mendiane]" from server, updating
+tick_fork: 22
+[Agent] ask server: Take food
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][EMPTY][EMPTY][PLAYER LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Take food
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ko" from server, updating
+tick_fork: 23
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][EMPTY][EMPTY][PLAYER LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 1, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 24
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][EMPTY][EMPTY][PLAYER LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 25
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER PLAYER LINEMATE][EMPTY][EMPTY][PLAYER LINEMATE MENDIANE]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player linemate,, player,]" from server, updating
+tick_fork: 26
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER LINEMATE][EMPTY][PLAYER]
+|  Level: 1
+|  Position: 1 1
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 27
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER LINEMATE][EMPTY][PLAYER]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player,,, mendiane]" from server, updating
+tick_fork: 28
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 1, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 29
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player,,, mendiane]" from server, updating
+tick_fork: 30
+[Agent] ask server: Right
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Right
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbfcc783-6ef9-42fa-ad48-e7028fb35390 ?
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 1 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5ac1d6cd-90fd-4f29-b5ea-b991b7cfe4a2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][EMPTY][EMPTY][MENDIANE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, mendiane, sibur, linemate deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 24ead73f-d68f-43e3-a0d1-c4c36ccbd15b
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:1 
+|  Vision: [PLAYER PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 0, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID a5fd7fa1-b340-40c8-b90e-e4ce4f8665d0
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player, mendiane, sibur, linemate deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID bbb1ed8e-e839-4ee0-bf76-0901198aba89
+[Agent] ask server: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Broadcast ID 805f6ee8-60af-48c9-ab4e-c81e1c1874dc
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 304303fe-477e-4027-826e-eb8a939a3945
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player, mendiane, sibur, linemate deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID d621f2fe-6b97-4ca5-a890-60a2056fe32a
+[Agent] ask server: Left
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: WEST
+|  isHungry: true
+|  lastCommand: Left
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID cfcaa0cd-d32a-4092-bc10-2709e75d4244
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 0, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 5d49658a-8840-4f81-ab5b-7d1b559516da
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 0
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+RECEIVE INCANTATE BROADCAST: ID ab502e06-06e3-45cd-b43c-e1a2d696fe07
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER][MENDIANE][SIBUR][LINEMATE DERAUMERE]
+|  Level: 1
+|  Position: 0 9
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane, food sibur, player food food linemate, deraumere deraumere]" from server, updating
+RECEIVE INCANTATE BROADCAST: ID 619b77f3-8b8e-418d-b2f8-76bc68869df2
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER MENDIANE][FOOD SIBUR][PLAYER FOOD FOOD LINEMATE][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 9
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player mendiane, food sibur, player food food linemate, deraumere deraumere]" from server, updating
+tick_fork: 11
+[Agent] ask server: Forward
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER MENDIANE][FOOD SIBUR][PLAYER FOOD FOOD LINEMATE][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 9
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Forward
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "ok" from server, updating
+tick_fork: 12
+[Agent] ask server: Inventory
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER MENDIANE][FOOD SIBUR][PLAYER FOOD FOOD LINEMATE][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 8
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Inventory
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ food 0, linemate 0, deraumere 0, sibur 0, mendiane 0, phiras 0, thystame 0 ]" from server, updating
+tick_fork: 13
+[Agent] ask server: Look
+|
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc]
+|  Inventory: LINEMATE:0 DERAUMERE:0 SIBUR:0 MENDIANE:0 PHIRAS:0 THYSTAME:0 FOOD:0 
+|  Vision: [PLAYER MENDIANE][FOOD SIBUR][PLAYER FOOD FOOD LINEMATE][DERAUMERE DERAUMERE]
+|  Level: 1
+|  Position: 0 8
+|  Orientation: SOUTH
+|  isHungry: true
+|  lastCommand: Look
+
+[Agent][805f6ee8-60af-48c9-ab4e-c81e1c1874dc] received "[ player player food linemate, food, player linemate, deraumere phiras]" from server, updating
+tick_fork: 14
+[Agent] ask server: Right
+|
+I'm dead -> level: 1
